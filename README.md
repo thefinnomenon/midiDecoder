@@ -1,2 +1,2 @@
 # midiDecoder
-MIDI decoder in Verilog &amp; C
+MIDI decoder in Verilog
