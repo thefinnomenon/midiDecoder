@@ -1,2 +1,2 @@
 # midiDecoder
-MIDI decoder in Verilog
+MIDI decoder (4MHz clock) in Verilog
